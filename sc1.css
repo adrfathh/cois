@@ -1,0 +1,55 @@
+* {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+body {
+    padding: 0 10%;
+}
+
+.content1 {
+    width: 100%;
+    margin-bottom: 3rem;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.navbar h1 {
+    font-weight: bold;
+}
+
+.rightnav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 30%;
+}
+
+.rightnav a {
+    transition: all ease-in 0.15s;
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+}
+
+.rightnav a:hover {
+    color: #0000006c;
+}
+
+.content2 {
+    width: 100%;
+}
+
+/* h1 .bab {
+    font-size: 1.525rem;
+    font-weight: 400;
+} */
+
+ul.manfaat {
+    list-style-type: circle;
+}
