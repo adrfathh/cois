@@ -53,3 +53,18 @@ body {
 ul.manfaat {
     list-style-type: circle;
 }
+
+.wirepers {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+
+.patrick {
+    width: 20%;
+}
+
+.deskripsi {
+    text-align: center;
+}
